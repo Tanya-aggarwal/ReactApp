@@ -1,0 +1,84 @@
+.head{
+    color: azure;
+    align-items: center;
+    text-align: center;
+    font-size: 110%;
+   
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: 'Coiny';
+}
+.headnew{
+  color: rgb(54, 54, 56);
+    align-items: center;
+    text-align: center;
+    font-size: 2rem;
+   
+  margin-top: 3%;
+  margin-bottom: auto;
+  font-family: 'Coiny';
+
+}
+.headdiv{
+    margin-top: auto;
+  margin-bottom: auto;
+  margin: auto;
+  
+}
+.box{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+input[type="text"] {
+  margin:10px auto;
+}
+
+.go {
+  
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color:#71BFD3;
+  border: none;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+ padding-left: 35px;
+ padding-right: 35px;
+ padding-top: 5px;
+ padding-bottom: 5px;
+ margin-top: 10%;
+ margin-bottom: 10%;
+  }
+  .g:hover {
+    background-color: transparent;
+  }
+    
+
+  .container1{
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    background-color:rgba(56, 58, 59,0.8);
+
+  }
+  .reload{
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color:#71BFD3;
+  border: none;
+  border-radius: 20px;
+  padding-left: 35px;
+ padding-right: 35px;
+ padding-top: 5px;
+ padding-bottom: 5px;
+  }
